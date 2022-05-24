@@ -1,0 +1,49 @@
+.intro-ninos {
+    background: #ff97b0;
+    min-height: 100vh;
+}
+
+.tit-intro-ninos {
+    color: #FFF;
+    font-size: 3.8vmin;
+    font-weight: bold;
+    text-align: center;
+}
+
+.img-intro-ninos {
+    border-radius: 2rem;
+    max-width: 100%;
+}
+
+.intro-ninos2 {
+    background: #ffb053;
+    min-height: 100vh;
+}
+
+.img-sorprendido {
+    max-height: 40%;
+}
+
+.contenedor-intro-intro, .contenedor-intro-intro-2 {
+    background: #fff;
+    color: rgb(128, 126, 126);
+    width: 100%;
+    border-radius: 30px;
+    padding: 2rem;
+    font-size: 5vmin;
+    text-align: center;
+}
+
+.contenedor-intro-intro-2 {
+    padding: 0rem;
+}
+
+@media (max-width: 576px) {
+    .contenedor-intro-intro {
+        font-size: 5vmin;
+    }
+
+    .tit-intro-ninos {
+        font-size: 6vmin;
+    }
+}

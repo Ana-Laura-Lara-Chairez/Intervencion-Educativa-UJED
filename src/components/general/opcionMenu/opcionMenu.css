@@ -1,0 +1,31 @@
+.img-opcion-menu {
+    max-width: 15%;
+    margin-right: 30px;
+}
+
+.opcion-menu {
+    max-width: 80%;
+    min-height: 15vh;
+    border-radius: 10px;
+    margin: 20px 0;
+    color: #FFF;
+}
+
+.opcion-menu:hover {
+    transform: scale(1.01);
+    box-shadow: var(--sombra);
+}
+
+.azul1 {
+    background: #004aad;;
+}
+
+.azul2 {
+    background: #246cce;
+}
+.azul3 {
+    background: #468fee;
+}
+.azul4 {
+    background: #6fa1e6;
+}

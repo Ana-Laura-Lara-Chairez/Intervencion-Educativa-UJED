@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Digital';
+    src: url('./assets/fonts/DS-DIGIB.TTF')  format('truetype')
+}
+
+:root {
+    --sombra: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFF;
+}
+
+.titulo, .subtitulo, .subtitulo-grande {
+    text-transform: uppercase;
+}
+
+.titulo {
+    font-weight: bold;
+    color: rgb(0, 11, 110);
+}
+
+.subtitulo {
+    color: rgb(69, 77, 82);
+    font-weight: 500;
+}
+
+.subtitulo-grande {
+    color: rgb(26, 125, 190);
+    font-size: 5vmin;
+    font-weight: lighter;
+}

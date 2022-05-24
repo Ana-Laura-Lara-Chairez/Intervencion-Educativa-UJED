@@ -1,0 +1,25 @@
+.opcion-menu-seleccion {
+    padding: 0.8rem;
+    min-height: 20vh;
+    border-radius: 20px;
+    color: #FFF;
+}
+
+.opcion-menu-seleccion:hover {
+    transform: scale(1.01);
+    box-shadow: var(--sombra);
+}
+
+.img-opcion-seleccion {
+    max-width: 100px;
+}
+
+.texto-opcion-menu {
+    font-size: 4vmin;
+}
+
+@media (max-width: 560px) {
+    .texto-opcion-menu {
+        font-size: 8vmin;
+    }
+}

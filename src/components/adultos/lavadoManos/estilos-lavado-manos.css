@@ -1,0 +1,22 @@
+.final-intro {
+    background: #b4d4eb;
+    height: 100vh;
+}
+
+.img-doctora {
+    max-width: 80vh;
+}
+
+.elementos {
+    max-width: 40vh;
+}
+
+.nombre-elementos {
+    font-weight: bold;
+    color: #2ae1e8;
+}
+
+.fondo-morado {
+    min-height: 95vh;
+    background-image: linear-gradient(140deg, #9f90f4 0, #6c6cd8 50%, #274bbd 100%);
+}

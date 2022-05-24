@@ -1,0 +1,33 @@
+.final-intro {
+    background: #b4d4eb;
+    height: 100vh;
+}
+
+.img-doctora {
+    max-height: 80%;
+}
+
+.elementos {
+    max-width: 40vh;
+}
+
+.nombre-elementos {
+    font-weight: bold;
+    color: #2ae1e8;
+}
+
+.parrafo {
+    font-size: 4.5vmin;
+}
+
+.titulo-videos {
+    font-size: 9vmin;
+}
+
+.texto-videos {
+    font-size: 6vmin;
+}
+
+.img-doctora {
+    max-width: 98%;
+}
